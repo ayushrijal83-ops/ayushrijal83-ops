@@ -2,50 +2,61 @@
   <img src="assets/banner.jpeg" alt="GitHub Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Ayush</h1>
+<h1 align="center">Hi 👋, I'm Ayush Rijal</h1>
 
 <h3 align="center">
 AI Developer • Cybersecurity Enthusiast • Python Programmer
 </h3>
 
 <p align="center">
-Building intelligent software, exploring cybersecurity, and creating open-source projects that solve real-world problems.
+Passionate about building intelligent software, exploring cybersecurity, and contributing to open-source projects that solve real-world problems.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayushrijal83-ops&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/ayushrijal83-ops">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/in/ayush-rijal-429516410/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="https://www.instagram.com/ayushrijal_20/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+
+  <a href="https://www.facebook.com/ayush.rijala.20/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>
 </p>
 
 ---
 
 # 🚀 About Me
 
-- 🧠 Passionate about **Artificial Intelligence** and **Cybersecurity**
-- 🐍 Python developer focused on automation and intelligent applications
-- 💻 Building modern desktop and web applications
-- 🌱 Always learning new technologies and improving my skills
-- 🤝 Open to collaboration on innovative open-source projects
+- 🤖 Passionate about Artificial Intelligence and Machine Learning
+- 🛡️ Exploring Cybersecurity and Ethical Hacking
+- 🐍 Python Developer focused on automation and intelligent applications
+- 💻 Building desktop and web applications using modern technologies
+- 🌱 Continuously learning and improving through real-world projects
+- 🤝 Open to collaborating on innovative open-source software
 
 ---
 
-# 🛠️ Tech Stack
+# 💻 Tech Stack
 
-### Programming Languages
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks & Libraries
+### Frameworks & Tools
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
-![Ollama](https://img.shields.io/badge/Ollama-111111?style=for-the-badge)
-
-### Tools & Technologies
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 
@@ -63,7 +74,7 @@ Building intelligent software, exploring cybersecurity, and creating open-source
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=ayushrijal83-ops&theme=github-dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=ayushrijal83-ops&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
@@ -71,7 +82,7 @@ Building intelligent software, exploring cybersecurity, and creating open-source
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ayushrijal83-ops&theme=algolia&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ayushrijal83-ops&theme=algolia&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
@@ -79,21 +90,23 @@ Building intelligent software, exploring cybersecurity, and creating open-source
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushrijal83-ops&theme=github-dark"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushrijal83-ops&theme=github-dark"/>
 </p>
 
 ---
 
-# 📫 Connect With Me
+# 🎯 Current Focus
 
-<p align="center">
-<a href="https://github.com/ayushrijal83-ops">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-</p>
+- 🤖 Artificial Intelligence
+- 🛡️ Cybersecurity
+- 🐍 Python Development
+- 🌐 Open Source
+- ⚙️ Automation
+- 📚 Continuous Learning
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile! If you like my work, consider following me and checking out my repositories.
+⭐ Thanks for visiting my profile!<br>
+If you enjoy my work, consider following me and exploring my repositories.
 </p>
